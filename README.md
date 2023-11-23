@@ -28,16 +28,19 @@
 <div id="header" align="center">
   <img src="https://media2.giphy.com/media/12Q9qZRnnab0T6/giphy.gif?cid=ecf05e47gv6qml8xuy4kl90qs3h64nmwwadvaoznrcfn1jex&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="480" height="202" frameBorder="0" class="giphy-embed" allowFullScreen/>
 </div>
+<h2 align='center'>
+  Посмотрите мое портфолио и давайте свяжемся!
+</h2>
 <div id="badges" align='center'>
   <a href="https://vk.com/paramonov.maxim">
     <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge"/>
   </a>
-  <a href="https://vk.com/paramonov.maxim"
-    <img src="https://img.icons8.com/?size=512&amp;id=P7UIlhbpWzZm&amp;format=png" width="40" height="40" alt="gmail"  style="max-width: 100%;"/>
-  </a>
   <a href="https://t.me/ParamonovMO">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+    <img width="40" height="40" alt="telegram" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" style="max-width: 100%;">
   </a>
+    <a href="mailto:paramonov.hse@gmail.com">
+      <img width="40" height="40" alt="gmail" src="https://img.icons8.com/?size=512&amp;id=P7UIlhbpWzZm&amp;format=png" style="max-width: 100%;">
+    </a>
 </div>
 <div align='center'>
   <img src="https://komarev.com/ghpvc/?username=ParamonovMO&style=flat-square&color=blue" alt=""/>
