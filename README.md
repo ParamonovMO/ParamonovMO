@@ -1,16 +1,45 @@
+<h1 align='center'>
+  Привет!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+<h2>
+  Меня зовут Максим и я QA Engineer. Здесь я хочу поделиться своим портфолио по тестированию, полученным во время учебы в Яндекс Практикум, решениями на тестовые задания и новыми знаниями в области Auto Testing.
+</h2>
+<ul>
+  <li>
+    В поиске работы в области тестирования
+  </li>
+  <li>
+    Выпускник школы Яндекс Практикум
+  </li>
+  <li>
+    В портфолио находится вся информация о моей учебе
+  </li>
+  <li>
+    Увлечен автоматизацией тестирования, в свободное время изучаю Python
+  </li>
+  <li>
+    Умею тестировать UI с помощью Python + Selenium Webdriver
+  </li>
+  <li>
+    Мое резюме <a href='https://drive.google.com/file/d/1wEX1tkYft5bO8n1toopxkKvEJwIem2hQ/view?usp=sharing'>тык</a>
+  </li>
+</ul>
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media2.giphy.com/media/12Q9qZRnnab0T6/giphy.gif?cid=ecf05e47gv6qml8xuy4kl90qs3h64nmwwadvaoznrcfn1jex&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="480" height="202" frameBorder="0" class="giphy-embed" allowFullScreen/>
 </div>
-<div id="badges">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+<div id="badges" align='center'>
   <a href="https://vk.com/paramonov.maxim">
     <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge"/>
+  </a>
+  <a href="https://vk.com/paramonov.maxim"
+    <img src="https://img.icons8.com/?size=512&amp;id=P7UIlhbpWzZm&amp;format=png" width="40" height="40" alt="gmail"  style="max-width: 100%;"/>
   </a>
   <a href="https://t.me/ParamonovMO">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
-<h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+<div align='center'>
+  <img src="https://komarev.com/ghpvc/?username=ParamonovMO&style=flat-square&color=blue" alt=""/>
+</div>
+
