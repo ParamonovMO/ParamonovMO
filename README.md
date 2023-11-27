@@ -39,6 +39,9 @@
   <li>
     Мое резюме <a href='https://drive.google.com/file/d/1wEX1tkYft5bO8n1toopxkKvEJwIem2hQ/view?usp=sharing'>тык</a>
   </li>
+    <li>
+      Сопроводительное письмо <a href='https://drive.google.com/file/d/1_RvADYNSE0tDG62u0rvzGIVaymtfU4mQ/view?usp=sharing'>тык<</a>
+    </li>
 </ul>
 </div>
 <div id="header" align="center">
