@@ -37,10 +37,10 @@
     <img src="https://camo.githubusercontent.com/8dbc5cd79c35a66fcdd34b23779af6629de890f89c5fb048f1a3a5dbdf227152/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f616e64726f696473747564696f2f616e64726f696473747564696f2d6f726967696e616c2e737667" title="android-studio" alt="android-studio" width="40" height="40" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" style="max-width: 100%;">
   </li>
   <li>
-    Мое резюме <a href='https://drive.google.com/file/d/1wEX1tkYft5bO8n1toopxkKvEJwIem2hQ/view?usp=sharing'>тык</a>
+    Мое резюме <a href='https://drive.google.com/file/d/1wEX1tkYft5bO8n1toopxkKvEJwIem2hQ/view?usp=sharing' target='_blank'>тык</a>
   </li>
     <li>
-      Сопроводительное письмо <a href='https://drive.google.com/file/d/1_RvADYNSE0tDG62u0rvzGIVaymtfU4mQ/view?usp=sharing'>тык</a>
+      Сопроводительное письмо <a href='https://drive.google.com/file/d/1_RvADYNSE0tDG62u0rvzGIVaymtfU4mQ/view?usp=sharing' target='_blank'>тык</a>
     </li>
 </ul>
 </div>
