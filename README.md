@@ -48,7 +48,7 @@
   <img src="https://media2.giphy.com/media/12Q9qZRnnab0T6/giphy.gif?cid=ecf05e47gv6qml8xuy4kl90qs3h64nmwwadvaoznrcfn1jex&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="480" height="202" frameBorder="0" class="giphy-embed" allowFullScreen/>
 </div>
 <h2 align='center'>
-  Посмотрите мое портфолио и давайте свяжемся!
+  Если Вас заинтересовала моя кандидатура, буду ждать обратную связь!)
 </h2>
 <div id="badges" align='center'>
   <a href="https://t.me/ParamonovMO">
