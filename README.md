@@ -29,7 +29,7 @@
     В работе применяю: YouTrack / Figma / DevTools / Postman / VScode / Python / HTML / Bash / Git / Charles / Android Studio
   </li>
   <li>
-    Мое резюме <a href='https://drive.google.com/file/d/19AY_FpPx5xuwqc5BjGy4U-xkO0ZE74GH/view?usp=sharing' target="_blank">тык</a>
+    Мое резюме <a href='https://drive.google.com/file/d/19AY_FpPx5xuwqc5BjGy4U-xkO0ZE74GH/view?usp=sharing](https://drive.google.com/file/d/19AY_FpPx5xuwqc5BjGy4U-xkO0ZE74GH/view?usp=sharing' target="_blank">тык</a>
   </li>
     <li>
       Сопроводительное письмо <a href='https://docs.google.com/document/d/1vPR5vy0bOOePP0SBX0oPpnpjz3DeEmWD/edit?usp=sharing&ouid=105729387456827159051&rtpof=true&sd=true' target="_blank">тык</a>
