@@ -17,13 +17,10 @@
     Выпускник школы Яндекс Практикум по специальности - "Инженер по тестированию"
   </li>
   <li>
-    В портфолио находится вся информация о моей учебе
+    В портфолио находится вся информация о моей учебе и навыках
   </li>
   <li>
-    Умею тестировать UI с помощью Python + Selenium Webdriver
-  </li>
-  <li>
-    В работе применяю: YouTrack / Figma / DevTools / Postman / VScode / Python / HTML / Bash / Git / Charles / Android Studio
+    В работе применяю: YouTrack / Figma / DevTools / Postman / VScode / Python / HTML / Bash / Git / Charles / Android Studio / Pytest / Selenium / Allure
   </li>
   <li>
     Мое резюме <a href='https://drive.google.com/file/d/19AY_FpPx5xuwqc5BjGy4U-xkO0ZE74GH/view?usp=sharing](https://drive.google.com/file/d/19AY_FpPx5xuwqc5BjGy4U-xkO0ZE74GH/view?usp=sharing' target="_blank">тык</a>
