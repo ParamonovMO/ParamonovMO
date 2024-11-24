@@ -23,7 +23,7 @@
     В работе применяю: YouTrack / Figma / DevTools / Postman / VScode / Python / HTML / Bash / Git / Charles / Pytest / Selenium / Allure
   </li>
   <li>
-    Мое резюме <a href='https://drive.google.com/file/d/1LSr55cZb1U6lQRlfq4KhA0pIgQJNhHDP/view?usp=sharing' target="_blank">тык</a>
+    Мое резюме <a href='https://perm.hh.ru/resume/327cbc57ff0b3592760039ed1f4b677659646d' target="_blank">тык</a>
   </li>
     <li>
       Сопроводительное письмо <a href='https://docs.google.com/document/d/1vPR5vy0bOOePP0SBX0oPpnpjz3DeEmWD/edit' target="_blank">тык</a>
