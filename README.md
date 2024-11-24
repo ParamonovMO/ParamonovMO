@@ -20,7 +20,7 @@
     В портфолио находится вся информация о моей учебе и навыках
   </li>
   <li>
-    В работе применяю: YouTrack / Figma / DevTools / Postman / VScode / Python / HTML / Bash / Git / Charles / Android Studio / Pytest / Selenium / Allure
+    В работе применяю: YouTrack / Figma / DevTools / Postman / VScode / Python / HTML / Bash / Git / Charles / Pytest / Selenium / Allure
   </li>
   <li>
     Мое резюме <a href='https://drive.google.com/file/d/1LSr55cZb1U6lQRlfq4KhA0pIgQJNhHDP/view?usp=sharing' target="_blank">тык</a>
