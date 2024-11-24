@@ -26,7 +26,7 @@
     Мое резюме <a href='https://drive.google.com/file/d/1LSr55cZb1U6lQRlfq4KhA0pIgQJNhHDP/view?usp=sharing' target="_blank">тык</a>
   </li>
     <li>
-      Сопроводительное письмо <a href='https://drive.google.com/file/d/1_RvADYNSE0tDG62u0rvzGIVaymtfU4mQ/view?usp=sharing' target="_blank">тык</a>
+      Сопроводительное письмо <a href='https://docs.google.com/document/d/1vPR5vy0bOOePP0SBX0oPpnpjz3DeEmWD/edit' target="_blank">тык</a>
     </li>
 </ul>
 </div>
