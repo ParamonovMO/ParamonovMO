@@ -37,7 +37,7 @@
   <a href="https://t.me/ParamonovMO">
     <img width="40" height="40" alt="telegram" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" style="max-width: 100%;">
   </a>
-    <a href="mailto:paramonov.hse@gmail.com">
+    <a href="mailto:paramonov.maxim@vk.com">
       <img width="40" height="40" alt="gmail" src="https://img.icons8.com/?size=512&amp;id=P7UIlhbpWzZm&amp;format=png" style="max-width: 100%;">
     </a>
 </div>
