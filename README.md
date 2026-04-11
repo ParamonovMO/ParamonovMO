@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Максим%20Парамонов&fontSize=45&fontAlignY=35&fontColor=FFFFFF&animation=fadeIn" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,4&height=220&section=header&text=Максим%20Парамонов&fontSize=50&fontAlignY=38&fontColor=FFFFFF&animation=fadeIn&desc=QA%20Engineer%20|%20Python%20AQA&descSize=18&descAlignY=55" alt="header"/>
 </div>
 
 <h1 align="center">
@@ -99,5 +99,5 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=100&section=footer" alt="footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,7,8&height=120&section=footer&animation=twinkling" alt="footer"/>
 </div>
