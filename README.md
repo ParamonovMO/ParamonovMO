@@ -5,7 +5,7 @@
       <div style="width: 100px; height: 30px; background: #0d0d0d; margin: -40px auto 10px auto; border-radius: 20px;"></div>
       
       <!-- Аватар (замените src на свой) -->
-      <img src="https://avatars.githubusercontent.com/u/ваш-id?v=4" alt="avatar" style="width: 90px; height: 90px; border-radius: 50%; object-fit: cover; display: block; margin: 0 auto 12px; border: 3px solid #007aff;">
+      <img src="https://avatars.githubusercontent.com/u/116649316?s=400&u=32d8565da367657d7fd809fb2efc60c0831d76a7&v=4" alt="avatar" style="width: 90px; height: 90px; border-radius: 50%; object-fit: cover; display: block; margin: 0 auto 12px; border: 3px solid #007aff;">
       
       <h1 align="center" style="margin: 8px 0; font-size: 22px;">👋 Максим Парамонов</h1>
       <h3 align="center" style="margin: 4px 0; font-size: 15px; color: #8e8e93;">🧪 QA Engineer | 🐍 Python AQA</h3>
