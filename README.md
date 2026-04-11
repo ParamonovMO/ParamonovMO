@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  👋 Привет, я Максим!
+  👋 Привет!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" alt="wave"/>
 </h1>
 
