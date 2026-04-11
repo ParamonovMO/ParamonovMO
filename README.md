@@ -4,7 +4,7 @@
       <!-- Dynamic Island (имитация) -->
       <div style="width: 100px; height: 30px; background: #0d0d0d; margin: -40px auto 10px auto; border-radius: 20px;"></div>
       
-      
+      <!-- Аватар -->
       <img src="https://avatars.githubusercontent.com/u/116649316?s=400&u=32d8565da367657d7fd809fb2efc60c0831d76a7&v=4" alt="avatar" style="width: 90px; height: 90px; border-radius: 50%; object-fit: cover; display: block; margin: 0 auto 12px; border: 3px solid #007aff;">
       
       <h1 align="center" style="margin: 8px 0; font-size: 22px;">👋 Максим Парамонов</h1>
@@ -29,7 +29,7 @@
         «Автоматизатор на Python»
       </p>
       
-      <!-- Иконки навыков (простые эмодзи вместо картинок, чтобы точно работало) -->
+      <!-- Иконки навыков (эмодзи + текст) -->
       <p align="center" style="font-size: 22px; letter-spacing: 10px;">
         🐍 🔍 📱 ⚙️ 🧪
       </p>
@@ -56,7 +56,7 @@
 | **[API‑тесты для учебного сервиса](https://github.com/ParamonovMO/api-tests)** | Проверка REST API с помощью Requests и Pytest | Python, Requests, Pytest |
 | **[Мобильное тестирование (Android)](https://github.com/ParamonovMO/mobile-tests)** | Автотесты для мобильного приложения через Appium | Python, Appium, Pytest |
 
-*Ссылки примерные — замените на свои репозитории.*
+*Ссылки примерные — замените на свои реальные репозитории.*
 
 ---
 
