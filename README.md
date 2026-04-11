@@ -1,54 +1,124 @@
-<h1 align='center'>
-  Привет!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B68EE,100:4B0082&height=200&section=header&text=Максим%20Парамонов&fontSize=45&fontAlignY=35&fontColor=FFFFFF&animation=fadeIn" alt="header"/>
+</div>
+
+<h1 align="center">
+  👋 Привет, я Максим!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" alt="wave"/>
 </h1>
-<h2>
-  Меня зовут Максим и я Инженер по тестированию. Здесь я хочу поделиться своим портфолио, полученным во время учебы в Яндекс Практикум, решениями на тестовые задания и новыми знаниями в области Auto Testing.
-</h2>
-  <div>
-  <ul>
-  <li>
-    В поиске работы в области тестирования / автотестирования
-  </li>
-     <li>
-    Выпускник школы Яндекс Практикум по специальности - "Автоматизатор тестирования на Python"
-  </li>
-  <li>
-    Выпускник школы Яндекс Практикум по специальности - "Инженер по тестированию"
-  </li>
-  <li>
-    В портфолио находится вся информация о моей учебе и навыках
-  </li>
-</ul>
+
+<h3 align="center">
+  🧪 Инженер по тестированию | 🐍 Python‑автоматизатор
+</h3>
+
+<p align="center">
+  <a href="https://t.me/ParamonovMO"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+  <a href="mailto:paramonov.maxim@vk.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Резюме-скачать-9cf?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Резюме"/></a>
+</p>
+
+---
+
+### 🧑‍💻 Обо мне
+
+- 🔍 В активном поиске позиции **QA Engineer / AQA Engineer**
+- 🎓 Выпускник **Яндекс Практикума** по направлениям:
+  - **«Инженер по тестированию»**
+  - **«Автоматизатор тестирования на Python»**
+- 📂 В этом профиле собраны:
+  - Учебные проекты
+  - Решения тестовых заданий
+  - Эксперименты с автотестами и инструментами
+- 🌱 Постоянно углубляю знания в автоматизации и CI/CD
+
+---
+
+### 🛠️ Технический стек
+
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/python.svg" width="48" height="48" alt="Python"/>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" width="48" height="48" alt="Selenium"/>
+      <br>Selenium
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/pytest/pytest-icon.svg" width="48" height="48" alt="Pytest"/>
+      <br>Pytest
+    </td>
+    <td align="center" width="96">
+      <img src="https://allurereport.org/public/img/allure-report.svg" width="48" height="48" alt="Allure"/>
+      <br>Allure
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Postman"/>
+      <br>Postman
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48" height="48" alt="Git"/>
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/github/explore/d8574c7bce27faa27fb879bca56dfe351ee66efd/topics/pycharm/pycharm.png" width="48" height="48" alt="PyCharm"/>
+      <br>PyCharm
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="48" height="48" alt="Figma"/>
+      <br>Figma
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="48" height="48" alt="Linux"/>
+      <br>Bash
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="48" height="48" alt="Jenkins"/>
+      <br>CI
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 GitHub статистика
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ParamonovMO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParamonovMO&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
-<div align="center"> 
-  
-  ### My Skill Set 
 
-  <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="" height="30" /></a> 
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30" /></a> 
-  <a href="https://www.figma.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="bash" width="30" height="30" /></a>
-  <a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/d8574c7bce27faa27fb879bca56dfe351ee66efd/topics/pycharm/pycharm.png" alt="pycharm logo" width="30" height="30" /></a>
-  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/python.svg"  alt="python" width="30" height="30" /></a> 
-  <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="30" height="30" /></a> 
-  <a href="https://pytest.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytest/pytest-icon.svg" alt="pytest" width="30" height="30"/></a>
-  <a href="https://allure.qatools.ru/" target="_blank"> <img src="https://allurereport.org/public/img/allure-report.svg" alt="allure-testops" width="30" height="30" /></a>
-  </div>
-<div id="header" align="center">
-  <img src="https://media2.giphy.com/media/12Q9qZRnnab0T6/giphy.gif?cid=ecf05e47gv6qml8xuy4kl90qs3h64nmwwadvaoznrcfn1jex&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="480" height="202" frameBorder="0" class="giphy-embed" allowFullScreen/>
-</div>
-<div id="badges" align='center'>
-  <a href="https://t.me/ParamonovMO">
-    <img width="40" height="40" alt="telegram" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" style="max-width: 100%;">
-  </a>
-    <a href="mailto:paramonov.maxim@vk.com">
-      <img width="40" height="40" alt="gmail" src="https://img.icons8.com/?size=512&amp;id=P7UIlhbpWzZm&amp;format=png" style="max-width: 100%;">
-    </a>
-</div>
-<div align='center'>
-  <img src="https://komarev.com/ghpvc/?username=ParamonovMO&style=flat-square&color=blue" alt=""/>
+---
+
+### 🚀 Мои проекты (автотесты)
+
+| Название | Описание | Стек |
+|----------|----------|------|
+| **[Web‑приложение Яндекс.Самокат](https://github.com/ParamonovMO/scooter-tests)** | UI‑автотесты на Selenium + Pytest, Allure‑отчёты | Python, Selenium, Pytest, Allure |
+| **[API‑тесты для учебного сервиса](https://github.com/ParamonovMO/api-tests)** | Проверка REST API с помощью Requests и Pytest | Python, Requests, Pytest |
+| **[Мобильное тестирование (Android)](https://github.com/ParamonovMO/mobile-tests)** | Автотесты для мобильного приложения через Appium | Python, Appium, Pytest |
+
+*Ссылки примерные — замените на свои репозитории.*
+
+---
+
+### 📫 Контакты
+
+<div align="center">
+  <a href="https://t.me/ParamonovMO"><img src="https://img.shields.io/badge/Telegram-@ParamonovMO-blue?style=flat-square&logo=telegram" alt="Telegram"/></a>
+  <a href="mailto:paramonov.maxim@vk.com"><img src="https://img.shields.io/badge/Email-paramonov.maxim@vk.com-red?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/ParamonovMO"><img src="https://img.shields.io/badge/GitHub-ParamonovMO-181717?style=flat-square&logo=github" alt="GitHub"/></a>
 </div>
 
+<br>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ParamonovMO&style=flat-square&color=blueviolet" alt="Profile views"/>
+</div>
 
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B68EE,100:4B0082&height=100&section=footer" alt="footer"/>
+</div>
