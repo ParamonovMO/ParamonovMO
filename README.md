@@ -82,19 +82,7 @@
   </tr>
 </table>
 
----
 
-### 🚀 Мои проекты (автотесты)
-
-| Название | Описание | Стек |
-|----------|----------|------|
-| **[Web‑приложение Яндекс.Самокат](https://github.com/ParamonovMO/scooter-tests)** | UI‑автотесты на Selenium + Pytest, Allure‑отчёты | Python, Selenium, Pytest, Allure |
-| **[API‑тесты для учебного сервиса](https://github.com/ParamonovMO/api-tests)** | Проверка REST API с помощью Requests и Pytest | Python, Requests, Pytest |
-| **[Мобильное тестирование (Android)](https://github.com/ParamonovMO/mobile-tests)** | Автотесты для мобильного приложения через Appium | Python, Appium, Pytest |
-
-*Ссылки примерные — замените на свои репозитории.*
-
----
 
 ### 📫 Контакты
 
