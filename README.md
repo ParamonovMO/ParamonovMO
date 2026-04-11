@@ -1,182 +1,44 @@
-<!-- Стили для экрана iPhone -->
-<style>
-  .iphone-frame {
-    max-width: 400px;
-    margin: 0 auto 20px auto;
-    background: #000;
-    border-radius: 48px;
-    padding: 16px 8px 24px 8px;
-    box-shadow: 0 20px 40px rgba(0,0,0,0.3), 0 0 0 8px #3a3a3a;
-    position: relative;
-  }
-  .iphone-screen {
-    background: #ffffff;
-    border-radius: 36px;
-    padding: 24px 20px 20px 20px;
-    position: relative;
-    overflow: hidden;
-    box-shadow: inset 0 0 0 1px rgba(255,255,255,0.1);
-  }
-  /* Dynamic Island */
-  .dynamic-island {
-    width: 110px;
-    height: 34px;
-    background: #111;
-    margin: -34px auto 12px auto;
-    border-radius: 20px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  }
-  .camera-dot {
-    width: 12px;
-    height: 12px;
-    background: #1a1a1a;
-    border-radius: 50%;
-    margin: 0 4px;
-    border: 1px solid #333;
-  }
-  .avatar-img {
-    width: 100px;
-    height: 100px;
-    border-radius: 50%;
-    object-fit: cover;
-    margin: 0 auto 12px;
-    display: block;
-    border: 3px solid #007aff;
-  }
-  .iphone-screen h1, .iphone-screen h3, .iphone-screen p {
-    margin: 8px 0;
-    text-align: center;
-    color: #1c1c1e;
-  }
-  .iphone-screen h1 {
-    font-size: 24px;
-    font-weight: 700;
-  }
-  .iphone-screen h3 {
-    font-size: 16px;
-    font-weight: 500;
-    color: #8e8e93;
-  }
-  .contact-buttons {
-    display: flex;
-    justify-content: center;
-    gap: 12px;
-    margin: 16px 0;
-  }
-  .contact-buttons a {
-    text-decoration: none;
-    background: #007aff;
-    color: white;
-    padding: 8px 16px;
-    border-radius: 30px;
-    font-weight: 500;
-    font-size: 14px;
-    display: inline-flex;
-    align-items: center;
-    gap: 6px;
-  }
-  .contact-buttons a.telegram { background: #26A5E4; }
-  .contact-buttons a.email { background: #EA4335; }
-  .contact-buttons a.resume { background: #34C759; }
-  .status-badge {
-    background: #e5e5ea;
-    padding: 6px 12px;
-    border-radius: 30px;
-    font-size: 14px;
-    color: #1c1c1e;
-    display: inline-block;
-    margin: 4px auto;
-    text-align: center;
-  }
-  .divider {
-    height: 1px;
-    background: #c6c6c8;
-    margin: 16px 0;
-  }
-  .skills-icons {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 16px;
-  }
-  .skills-icons img {
-    width: 32px;
-    height: 32px;
-  }
-  /* Адаптация для тёмной темы GitHub */
-  @media (prefers-color-scheme: dark) {
-    .iphone-screen {
-      background: #1c1c1e;
-    }
-    .iphone-screen h1, .iphone-screen h3, .iphone-screen p {
-      color: #ffffff;
-    }
-    .iphone-screen h3 {
-      color: #98989e;
-    }
-    .status-badge {
-      background: #2c2c2e;
-      color: #ffffff;
-    }
-    .divider {
-      background: #38383a;
-    }
-  }
-</style>
-
 <div align="center">
-  <div class="iphone-frame">
-    <div class="iphone-screen">
-      <!-- Dynamic Island -->
-      <div class="dynamic-island">
-        <div class="camera-dot"></div>
-        <div class="camera-dot" style="background: #2c2c2c;"></div>
-      </div>
+  <div style="max-width: 360px; margin: 0 auto; background: #1a1a1a; border-radius: 44px; padding: 12px 6px 20px 6px; box-shadow: 0 10px 20px rgba(0,0,0,0.3);">
+    <div style="background: #ffffff; border-radius: 36px; padding: 24px 16px 20px 16px;">
+      <!-- Dynamic Island (имитация) -->
+      <div style="width: 100px; height: 30px; background: #0d0d0d; margin: -40px auto 10px auto; border-radius: 20px;"></div>
       
-      <!-- Аватарка (замените src на свою) -->
-      <img class="avatar-img" src="https://avatars.githubusercontent.com/u/ваш-id?v=4" alt="Максим Парамонов" />
+      <!-- Аватар (замените src на свой) -->
+      <img src="https://avatars.githubusercontent.com/u/ваш-id?v=4" alt="avatar" style="width: 90px; height: 90px; border-radius: 50%; object-fit: cover; display: block; margin: 0 auto 12px; border: 3px solid #007aff;">
       
-      <h1>👋 Максим Парамонов</h1>
-      <h3>🧪 QA Engineer | 🐍 Python AQA</h3>
+      <h1 align="center" style="margin: 8px 0; font-size: 22px;">👋 Максим Парамонов</h1>
+      <h3 align="center" style="margin: 4px 0; font-size: 15px; color: #8e8e93;">🧪 QA Engineer | 🐍 Python AQA</h3>
       
+      <p align="center">
+        <span style="background: #e5e5ea; padding: 5px 12px; border-radius: 30px; font-size: 13px;">🔍 В поиске работы</span>
+      </p>
+      
+      <!-- Кнопки контактов -->
       <div align="center">
-        <span class="status-badge">🔍 В поиске работы</span>
+        <a href="https://t.me/ParamonovMO" style="background: #26A5E4; color: white; padding: 6px 14px; border-radius: 30px; text-decoration: none; font-weight: bold; font-size: 13px; display: inline-block; margin: 4px;">📱 Telegram</a>
+        <a href="mailto:paramonov.maxim@vk.com" style="background: #EA4335; color: white; padding: 6px 14px; border-radius: 30px; text-decoration: none; font-weight: bold; font-size: 13px; display: inline-block; margin: 4px;">📧 Email</a>
+        <a href="#" style="background: #34C759; color: white; padding: 6px 14px; border-radius: 30px; text-decoration: none; font-weight: bold; font-size: 13px; display: inline-block; margin: 4px;">📄 Резюме</a>
       </div>
       
-      <div class="contact-buttons">
-        <a href="https://t.me/ParamonovMO" class="telegram" target="_blank">
-          <img src="https://cdn.simpleicons.org/telegram/white" width="16" height="16" style="filter: brightness(0) invert(1);"> Telegram
-        </a>
-        <a href="mailto:paramonov.maxim@vk.com" class="email" target="_blank">
-          <img src="https://cdn.simpleicons.org/gmail/white" width="16" height="16" style="filter: brightness(0) invert(1);"> Email
-        </a>
-        <a href="#" class="resume" target="_blank">
-          <img src="https://cdn.simpleicons.org/readthedocs/white" width="16" height="16" style="filter: brightness(0) invert(1);"> Резюме
-        </a>
-      </div>
+      <hr style="margin: 16px 0; border: 0.5px solid #c6c6c8;">
       
-      <div class="divider"></div>
-      
-      <p style="font-size: 14px; margin-bottom: 8px;">
+      <p align="center" style="font-size: 13px; margin: 8px 0;">
         🎓 Выпускник <strong>Яндекс Практикума</strong><br>
         «Инженер по тестированию»<br>
         «Автоматизатор на Python»
       </p>
       
-      <div class="skills-icons">
-        <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" title="Python"/>
-        <img src="https://cdn.simpleicons.org/selenium/43B02A" alt="Selenium" title="Selenium"/>
-        <img src="https://cdn.simpleicons.org/pytest/0A9EDC" alt="Pytest" title="Pytest"/>
-        <img src="https://cdn.simpleicons.org/postman/FF6C37" alt="Postman" title="Postman"/>
-        <img src="https://cdn.simpleicons.org/git/F05032" alt="Git" title="Git"/>
-        <img src="https://cdn.simpleicons.org/pycharm/000000" alt="PyCharm" title="PyCharm" style="filter: invert(1);"/>
-        <img src="https://cdn.simpleicons.org/figma/F24E1E" alt="Figma" title="Figma"/>
-      </div>
+      <!-- Иконки навыков (простые эмодзи вместо картинок, чтобы точно работало) -->
+      <p align="center" style="font-size: 22px; letter-spacing: 10px;">
+        🐍 🔍 📱 ⚙️ 🧪
+      </p>
+      <p align="center" style="font-size: 12px; color: #8e8e93;">
+        Python · Selenium · Pytest · Postman · Git · SQL
+      </p>
       
-      <p style="font-size: 13px; margin-top: 16px;">
-        <img src="https://komarev.com/ghpvc/?username=ParamonovMO&style=flat-square&color=007aff" alt=""/>
+      <p align="center" style="margin-top: 16px;">
+        <img src="https://komarev.com/ghpvc/?username=ParamonovMO&style=flat-square&color=007aff" alt="views">
       </p>
     </div>
   </div>
@@ -184,7 +46,6 @@
 
 <br>
 
-<!-- Остальная информация остаётся за пределами "экрана" -->
 ---
 
 ### 🚀 Мои проекты (автотесты)
