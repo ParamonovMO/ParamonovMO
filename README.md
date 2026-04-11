@@ -11,7 +11,7 @@
 <div align="left">
 
 ### Обо мне
-[![Telegram Badge](https://img.shields.io/badge/-paramonov_mo-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/paramonovmo)  [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:paramonov.maxim@vk.com) [![codewars](https://www.codewars.com/users/paramonovmo/badges/micro)](https://www.codewars.com/users/paramonovmo)
+[![Telegram Badge](https://img.shields.io/badge/-paramonov_mo-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/paramonovmo)  [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:paramonov.maxim@vk.com)
 
 [![Metrics](https://raw.githubusercontent.com/paramonovmo/paramonovmo/github-metrics/github-metrics.svg)](https://github.com/paramonovmo/paramonovmo/blob/main/.github/workflows/daily-metrics.yml)
 > .
