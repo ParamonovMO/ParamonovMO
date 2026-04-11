@@ -14,7 +14,7 @@
 <p align="center">
   <a href="https://t.me/ParamonovMO"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
   <a href="mailto:paramonov.maxim@vk.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Резюме-скачать-9cf?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Резюме"/></a>
+  <a href="https://drive.google.com/file/d/16IeY0BPi5vTGzp8sZ617poIEkjmhP9uy/view?usp=sharing"><img src="https://img.shields.io/badge/Резюме-скачать-9cf?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Резюме"/></a>
 </p>
 
 ---
