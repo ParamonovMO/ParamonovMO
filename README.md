@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B68EE,100:4B0082&height=200&section=header&text=Максим%20Парамонов&fontSize=45&fontAlignY=35&fontColor=FFFFFF&animation=fadeIn" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Максим%20Парамонов&fontSize=45&fontAlignY=35&fontColor=FFFFFF&animation=fadeIn" alt="header"/>
 </div>
 
 <h1 align="center">
@@ -29,7 +29,7 @@
   - Учебные проекты
   - Решения тестовых заданий
   - Эксперименты с автотестами и инструментами
-- 🌱 Постоянно углубляю знания в автоматизации и CI/CD
+- 🌱 Постоянно углубляю знания в автоматизации и тест‑дизайне
 
 ---
 
@@ -76,20 +76,11 @@
       <br>Bash
     </td>
     <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="48" height="48" alt="Jenkins"/>
-      <br>CI
+      <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="48" height="48" alt="SQL"/>
+      <br>SQL
     </td>
   </tr>
 </table>
-
----
-
-### 📊 GitHub статистика
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ParamonovMO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParamonovMO&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
 
 ---
 
@@ -120,5 +111,5 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B68EE,100:4B0082&height=100&section=footer" alt="footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=100&section=footer" alt="footer"/>
 </div>
